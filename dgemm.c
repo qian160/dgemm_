@@ -1,6 +1,5 @@
 /*
 		use gcc -lpthread -fopenmp -mavx
-idea from P&H's COD book, MIPS 5th edition.However some explanations on the book seems to be wrong...
 I strongly believe it must be B * A rather than A * B!!!! And the comment of the matrix index in the book also fails
 
 Let's first consider the question: What are the datas that will affect the value of cij?
